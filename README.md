@@ -146,7 +146,6 @@ This playbook establishes a strong logging foundation for Windows endpoints. By 
 
 ---
 
-## Author
-
-Laiba Asad
-CyberSecurity Engineer
+- 
+---
+- Copyright © 2026 Laiba Asad (github.com/Laiba-Asad)
